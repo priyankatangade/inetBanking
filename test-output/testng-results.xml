@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="27298" started-at="2019-02-06T15:56:12Z" finished-at="2019-02-06T15:56:39Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="27298" started-at="2019-02-06T15:56:12Z" finished-at="2019-02-06T15:56:39Z">
+      <class name="com.inetBanking.testCases.TC_AddNewCustomer_003">
+        <test-method status="PASS" signature="Setup(java.lang.String)[pri:0, instance:com.inetBanking.testCases.TC_AddNewCustomer_003@6d4b1c02]" name="Setup" is-config="true" duration-ms="14088" started-at="2019-02-06T15:56:12Z" finished-at="2019-02-06T15:56:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="addNewCustomer()[pri:0, instance:com.inetBanking.testCases.TC_AddNewCustomer_003@6d4b1c02]" name="addNewCustomer" duration-ms="11882" started-at="2019-02-06T15:56:27Z" finished-at="2019-02-06T15:56:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewCustomer -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.inetBanking.testCases.TC_AddNewCustomer_003@6d4b1c02]" name="tearDown" is-config="true" duration-ms="1035" started-at="2019-02-06T15:56:38Z" finished-at="2019-02-06T15:56:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.inetBanking.testCases.TC_AddNewCustomer_003 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
